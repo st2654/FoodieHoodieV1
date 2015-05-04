@@ -10,7 +10,7 @@ public  class DatabaseConnection {
 
 
     private static String driverClassName = "com.mysql.jdbc.Driver";
-    private static String url = "jdbc:mysql://localhost:3306/foodiehoodie";//54.187.12.208
+    private static String url = "jdbc:mysql://localhost:3306/foodiehoodie";
     private static String username = "root";
     private static String password = "root";
 
