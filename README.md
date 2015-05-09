@@ -43,7 +43,7 @@ We divided crawler, parser, indexer and android app as separate component and bu
  
 # Contributor
 <b>Sourabh Taletiya (N15776267)</b><br>
-st2654@nyu.edu<br>                                 
+st2654@nyu.edu<br>
 201-680-8527<br>                                      
 
 <b>Jay Patel ( N10541249 )</b><br>
