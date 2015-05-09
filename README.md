@@ -2,7 +2,7 @@
 
 # Overview
 FoodieHoodie is an idea to help people on basis of What You Have Is What You Cook. This project is built on Android framework, Java/J2EE, REST API and MySQL DB. We are building an Android Application with an easy to use UI. This project constitutes of web crawler, parser, indexer, query processor and awesome Android UI.<br>
-Used <em><b>Early termination, top-20 shuffled result algorithm</b></em> and ranking is based on <em><b>relevance</b></em>.
+Used <em><b>Early termination, top-20 shuffled result algorithm</b></em> and ranking is based on <em><b>relevance</b></em> of ingredient in recipe[Tough to rank the recipe, we need to think of more constraints].
 
 # Web Crawler
 •	Used seeds<br>
