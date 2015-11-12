@@ -44,17 +44,15 @@ We divided crawler, parser, indexer and android app as separate component and bu
 # Functionalities
 1. Prepopulated ingredient list in a gridview.
 2. New Ingredient can be added dynamically by entering the text in textfield and pressing enter.
-3. Repeat Step 2 till you enter all your ingredients
-Starting screens look like below screenshots. You also have Help button which explains how to use the application. 
-
-4. Once all ingredients are entered you can press  . 
+3. Repeat Step 2 till you enter all your ingredients. Starting screens look like below screenshots. You also have Help button which explains how to use the application. 
+4. Once all ingredients are entered you can press > . 
 5. This search calls the REST API on AWS cloud and convert the JSON object into Recipe Array object and displays all the list of recipe in List view. 
 6. User selects a recipe and view it. As soon as he views the recipe the recipe saves in Recent table. 
 7.User can also favorite the recipe. 
-8.User can also see which website has the recipe and click on it can and check it on browser. Below are the screenshots for Step 6,7,8.
-9.User can also check recent and favorite recipes from homescreen. Below are the screenshots.
-10. User can Add Recipe and that recipe gets saved in favorite list. Below are the screenshots.
-Ingredients and Steps should be entered as Comma separated.
+8.User can also see which website has the recipe and click on it can and check it on browser. Checkout screenshot 6,7,8
+9.User can also check recent and favorite recipes from homescreen.
+10. User can Add Recipe and that recipe gets saved in favorite list.
+```Ingredients and Steps should be entered as Comma separated.
 
 
 
