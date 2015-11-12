@@ -48,9 +48,9 @@ We divided crawler, parser, indexer and android app as separate component and bu
 4. Once all ingredients are entered you can press > . 
 5. This search calls the REST API on AWS cloud and convert the JSON object into Recipe Array object and displays all the list of recipe in List view. 
 6. User selects a recipe and view it. As soon as he views the recipe the recipe saves in Recent table. 
-7.User can also favorite the recipe. 
-8.User can also see which website has the recipe and click on it can and check it on browser. Checkout screenshot 6,7,8
-9.User can also check recent and favorite recipes from homescreen.
+7. User can also favorite the recipe. 
+8. User can also see which website has the recipe and click on it can and check it on browser. Checkout screenshot 6,7,8
+9. User can also check recent and favorite recipes from homescreen.
 10. User can Add Recipe and that recipe gets saved in favorite list.
 * Ingredients and Steps should be entered as Comma separated.
 
