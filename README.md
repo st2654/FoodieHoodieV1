@@ -52,7 +52,7 @@ We divided crawler, parser, indexer and android app as separate component and bu
 8.User can also see which website has the recipe and click on it can and check it on browser. Checkout screenshot 6,7,8
 9.User can also check recent and favorite recipes from homescreen.
 10. User can Add Recipe and that recipe gets saved in favorite list.
-```Ingredients and Steps should be entered as Comma separated.
+* Ingredients and Steps should be entered as Comma separated.
 
 
 
